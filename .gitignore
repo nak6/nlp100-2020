@@ -1,0 +1,9 @@
+/data
+/collections
+/indices
+/results
+/docker
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
